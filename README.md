@@ -1,4 +1,4 @@
-# start_jobs
+# v1.1
 1. 启动多个/单个备份或者恢复作业，需要提供作业的jobuuid
 2. 使用api-key登录
 3. JOBS_UUID_TUPLE中可以填入多个jobuuid或者一个jobuuid
